@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import { Layout } from './components/layouts/Layout';
+import { AppLayout } from './components/layouts/Layout';
 
 // Pages
 import { LandingPage } from './pages/LandingPage';
@@ -18,7 +18,7 @@ import { Header } from './components/Header';
 function App() {
   return (
     <div className="App">
-      <Layout>
+      <AppLayout>
         <React.Fragment>
 
           <Router>
@@ -39,7 +39,7 @@ function App() {
           </Router>
 
         </React.Fragment>
-      </Layout>
+      </AppLayout>
     </div>
   );
 }
