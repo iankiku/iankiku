@@ -1,57 +1,77 @@
-<div style="background:black; background-color:black; color:white;"> <br/>
+# Hi there 👋
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<a href="https://twitter.com/iankiku">
-  <img align="left" alt="Ian Kiku | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<p align="left">
+<a href="https://github.com/iankiku">
+<img src="https://readme-components.vercel.app/api?component=text&text=I'm%20Ian%20Kiku&fill=linear-gradient%28to%20right%2C%20%23000000%200%25%2C%20%23333333%20100%25%29%3B&textfill=white&animation=fadeIn">
 </a>
-<a href="https://www.linkedin.com/in/iankiku/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</p>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=iankiku.iankiku) -->
-
-<br />
-
-hi, i'm [Ian Kiku](https://iankiku.com/), I'm a passionate full-stack engineer, enthusiastic about building and supporting great technology products. Skilled and knowledgeable in object-oriented programming styles. I build using these tools: *Ruby, Ruby, Python, Javascript, NodeJs, ReactJs, VueJs, SQL*
-
-<img align="center" alt="GIF" src="https://github.com/iankiku/iankiku/blob/master/code.gif?raw=true" width="500" height="320" /> 
-
-<p  align="center">
-  <a href="https://dribbble.com/shots/6139167-Avento-marketing/">
-    Image Credits: Peter Henderson 
+<p align="left">
+  <a href="https://twitter.com/iankiku">
+    <img src="https://img.shields.io/twitter/follow/iankiku?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/iankiku/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://iankiku.com/">
+    <img src="https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white&link=https://iankiku.com/">
   </a>
 </p>
 
+## About Me
 
-## *Languages and tools:**  
+> Product engineer by day, code explorer by night. I turn coffee into solutions
+> and dreams into deployments. Whether I'm crafting AI agents or building the
+> next big thing, I'm always in my element when turning complex problems into
+> elegant code.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"> Ruby On Rails</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"> Ruby </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React Js</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> VueJs</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"> GraphQl</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJs</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> Sql </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> git </code>
+### What I'm up to:
 
+- 🚀 Building AI Agents that make life easier
+- 🧠 Deep diving into AI possibilities
+- 💡 Crafting full-stack solutions with Python, TypeScript & friends
+- 🌐 Connect with me on [Twitter](https://twitter.com/iankiku) |
+  [LinkedIn](https://www.linkedin.com/in/iankiku/)
 
-<br />
+## Tech Stack
 
-
-<p>
-if you like what i do or want to build something cool, consider buying me a coffee/tea and let us collaborate 🥺👉👈
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178C6">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=4FC08D">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=graphql&svgfill=E10098">
+</a>
 </p>
 
-</div>
+---
 
-<!-- 📈 my github stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iankiku&label=Profile%20views&color=0e9e6e&style=flat" alt="Profile views" />
+</p>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iankiku&show_icons=true&theme=gotham" alt="iankiku" /> -->
-
-
-
-
+# Made with 💚 using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
